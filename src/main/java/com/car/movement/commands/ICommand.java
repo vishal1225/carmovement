@@ -4,7 +4,6 @@ import com.car.movement.pojo.IVehicle;
 import com.car.movement.util.ResourceUtil;
 
 /**
- * Created by Pooja on 14-11-2015.
  */
 public interface ICommand {
 	static int MAX_Y=Integer.parseInt(ResourceUtil.getPropertyValue("max.y"));

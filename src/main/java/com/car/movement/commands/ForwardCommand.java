@@ -6,7 +6,6 @@ import com.car.movement.pojo.IVehicle;
 import com.car.movement.util.ResourceUtil;
 
 /**
- * Created by Pooja on 14-11-2015.
  */
 public class ForwardCommand implements ICommand {
 	
